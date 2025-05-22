@@ -10,6 +10,10 @@ sudo apt update
 sudo apt install remmina
 ```
 
+**Remmina GUI:**
+
+![remmina final GUI](./img/remmina-gui.png)
+
 ## SSH Connection
 
 To connect to a Multipass VM using SSH:
@@ -40,6 +44,14 @@ To connect to a Multipass VM using RDP:
 
 ![RDP Config](./img/rdp-config.png)
 
-**Remmina GUI:**
+RDP authentication credentials:
 
-![remmina final GUI](./img/remmina-gui.png)
+![RDP auth Credentials](./img/rdp-auth-credentials.png)
+
+RDP Desktop GUI:
+
+![rdp desktop GUI](./img/rdp-desktop-gui.png)
+
+Search for application: **Activities >> Search Bar**
+
+![app-search](./img/search-for-applications.png)
